@@ -1,4 +1,4 @@
-We are an arch linux community. We are not the official arch linux organization. We have nothing to do with archlinux-cn.
+We are an arch linux community. We are not the official arch linux organization. We have nothing to do with archlinux-cn. We do not have any profitable projects.
 
 ArchLinuxStudio is dedicated to promoting the free software movement in China and at the same time dedicated to promoting the democratic process in China.  
 
