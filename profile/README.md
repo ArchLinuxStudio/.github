@@ -1,8 +1,8 @@
-We are an arch linux community. We are not the official arch linux organization. We have nothing to do with archlinux-cn. We do not have any profitable projects.
+We are an arch linux community. We are not the official arch linux organization. We have nothing to do with archlinux-cn. We do not have any profitable projects. 
 
-ArchLinuxStudio is dedicated to promoting the free software movement in China and at the same time dedicated to promoting the democratic process in China.  
+We are committed to the promotion of the free software movement. At the same time, we help people in countries where the Internet is blocked to break through Internet blocking and censorship.
 
-If you need the latest breakthrough GFW software package, please send a blank email to archlinuxstudio@tutamail.com. We will send it for you.
+If you need tools to break through Internet blocking and censorship, please send a blank email to archlinuxstudio@tutamail.com. We will send it for you.
 
 If you have any news that you want to share with us, please use tutamail to send us an encrypted email.
 
