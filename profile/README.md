@@ -1,4 +1,4 @@
-We are a Arch Linux community organization based in Canada. We are NOT the official Arch Linux organization. We have nothing to do with archlinux-cn. We do not have any profitable projects. We are always operating at a loss.
+We are an Arch Linux community organization based in Canada. We are NOT the official Arch Linux organization. We have nothing to do with archlinux-cn. We do not have any profitable projects. We are always operating at a loss.
 
 We are committed to the promotion of the free software movement. At the same time, we help people in countries where the Internet is blocked to break through Internet blocking and censorship.
 
