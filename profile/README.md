@@ -2,11 +2,12 @@ We are an Arch Linux community organization based in Canada. We are NOT the offi
 
 We are committed to the promotion of the free software movement. At the same time, we help people in countries where the Internet is blocked to break through Internet blocking and censorship.
 
-Check out our proud book: The Freedom Trilogy!
+Check out our proud book: The Freedom Tetralogy!
 
 1. End Device Freedom: [ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial)
-2. Internet Freedom: [LinuxNetworkProgrammingAndEncryption](https://github.com/ArchLinuxStudio/LinuxNetworkProgrammingAndEncryption)
-3. Financial payment Freedom: [EtherRevelation](https://github.com/ArchLinuxStudio/EtherRevelation)
+2. Privacy Freedom: [ModernSecurityProtectionGuide](https://archlinuxstudio.github.io/ModernSecurityProtectionGuide)
+3. Internet Freedom: [LinuxNetworkProgrammingAndEncryption](https://github.com/ArchLinuxStudio/LinuxNetworkProgrammingAndEncryption)
+4. Financial payment Freedom: [EtherRevelation](https://github.com/ArchLinuxStudio/EtherRevelation)
 
 If you need tools to break through Internet blocking and censorship, please send a blank email to **archlinuxstudio AT tutamail.com**. We will send it for you. Please DO NOT use China's 163 mailbox, because it will detect the attachment content of the email and refuse to accept attachments that contains software can break through Internet censorship and blocking.
 
